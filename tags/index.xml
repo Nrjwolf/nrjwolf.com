@@ -1,23 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Nrjwolf&#39;s webpage</title>
-        <link>https://nrjwolf.com/tags/</link>
+        <link>https://nrjwolf.github.io/nrjwolf.com.github.io/tags/</link>
         <description>Tags - Tag - Nrjwolf&#39;s webpage</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>alexander@nrjwolf.com (Nrjwolf)</managingEditor>
-            <webMaster>alexander@nrjwolf.com (Nrjwolf)</webMaster><lastBuildDate>Tue, 17 May 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://nrjwolf.com/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>alexander@nrjwolf.com (Nrjwolf)</webMaster><lastBuildDate>Tue, 17 May 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://nrjwolf.github.io/nrjwolf.com.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>about</title>
-    <link>https://nrjwolf.com/tags/about/</link>
+    <link>https://nrjwolf.github.io/nrjwolf.com.github.io/tags/about/</link>
     <pubDate>Tue, 17 May 2022 00:00:00 &#43;0000</pubDate>
     <author>Nrjwolf</author>
-    <guid>https://nrjwolf.com/tags/about/</guid>
+    <guid>https://nrjwolf.github.io/nrjwolf.com.github.io/tags/about/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>bot</title>
-    <link>https://nrjwolf.com/tags/bot/</link>
+    <link>https://nrjwolf.github.io/nrjwolf.com.github.io/tags/bot/</link>
     <pubDate>Tue, 17 May 2022 00:00:00 &#43;0000</pubDate>
     <author>Nrjwolf</author>
-    <guid>https://nrjwolf.com/tags/bot/</guid>
+    <guid>https://nrjwolf.github.io/nrjwolf.com.github.io/tags/bot/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
